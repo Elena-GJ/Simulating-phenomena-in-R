@@ -10,3 +10,6 @@ The first file simulates the martingale method of bidding, making with this code
 ## Conway's Game of Life
 The second file simulates Conway's Game of Life. Again, after simulating the proposed practice in R, I made a report taking as the dependent variable the final number of living cells as a function of variables such as the size of the grid, the initial probability of living cells or the rules for creating or maintaining life, among other variables.
 In order to better visualize the changing of the matrix created, the results were shown in a .gif file when requested.
+
+## Efficacy of different classifiers
+In this practice, to classify the Iris dataset, various method for classifing are tested under a variety of circumstances, as for example the changing proportion of data used as training or test sets, the ideal number of neighbours (determine k) to classify this dataset, the ideal number of neurons in the hidden layer to do a propper classification, and many other variables.
