@@ -1,5 +1,5 @@
 # Important consideration to run this code
-It is important to know that the code does not run properly on cmd, but I do not know the reason. To properly run it, it is better to run it in the IDE RStudio.
+It is important to know that the code does not run properly on cmd, but I do not know the reason. To properly run it, it is better to do it in the IDE RStudio.
 
 # Simulating phenomena in R
 Those are the projects I did for my master's degree, concretely for the subject "Simulation techniques", in which we had to simulate the different proposed phenomena using the programming language R. I also upload for each one the report we had to do to show the obtained results and their conclussion (because of the nature of the evaluation, the reports are in Spanish and are .pdf files).
